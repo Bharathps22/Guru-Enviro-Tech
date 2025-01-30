@@ -119,7 +119,7 @@ const Sidebar = () => {
 
         {/* Main Content */}
         <div className="flex-grow-1 p-5">
-          <h1>Main Content</h1>
+          <h1>Main Content </h1>
           <p>This is the main content area in mobile view sidebar in offcanvas.</p>
         </div>
       </div>
